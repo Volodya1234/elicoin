@@ -30,7 +30,7 @@ Build
 ----------------------
 1.  Clone the source:
 
-        git clone https://github.com/zoinofficial/zoin
+        git clone https://github.com/Volodya1234/elicoin
 
 2.  Build Zoin-core:
 
