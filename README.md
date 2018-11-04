@@ -1,10 +1,6 @@
 # About Elicoin
 Elicoin is a CPU mineable cryptocurrency and open source software developed under MIT license. It can be mined on GPU too, but CPU mining is more efficient.
 
-<p align="center">
- <img src="https://elicoin.net/img/logobig.png" alt="Elicoin">
-</p>
-
 Linux Build Instructions and Notes
 ==================================
 
